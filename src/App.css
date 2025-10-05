@@ -1,0 +1,9 @@
+.weatherbox{
+  
+  background-image: url("https://e0.pxfuel.com/wallpapers/176/804/desktop-wallpaper-weather-beautiful-weather.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.weatherinsidebox{
+  background-color: rgba(3, 5, 63, 0.699);
+}
