@@ -102,9 +102,9 @@ function App() {
             <Box sx={{ mt: 2, color: "white", textAlign: "center" }}>
               <h2>{weather.name}</h2>
               <p>{weather.weather[0].description.toUpperCase()}</p>
-              <p>🌡️ Temp: {weather.main.temp} °C</p>
-              <p>💧 Humidity: {weather.main.humidity}%</p>
-              <p>🌬️ Wind: {weather.wind.speed} m/s</p>
+              <p> Temp: {weather.main.temp} °C</p>
+              <p> Humidity: {weather.main.humidity}%</p>
+              <p> Wind: {weather.wind.speed} m/s</p>
             </Box>
           )}
         </Box>
